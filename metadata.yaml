@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38696'
     url: http://www.gutenberg.org/2009/agents/38696
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37197#Problems-in-Periclean-Buildings
 gutenberg_issued: '2011-08-24'
 gutenberg_type: Text
 identifiers:
