@@ -1,0 +1,30 @@
+_repo: Problems-in-Periclean-Buildings_37197
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elderkin, G. W. (George Wicker)
+    alias: Elderkin, George Wicker
+    birthdate: 1879
+    deathdate: 1965
+    gutenberg_agent_id: '38696'
+    url: http://www.gutenberg.org/2009/agents/38696
+description: ''
+gutenberg_issued: '2011-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37197'
+  lccn: '13000807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erechtheum (Athens, Greece)'
+- !lcc 'NA'
+- !lcsh 'Architecture -- Greece -- Athens'
+- !lcsh 'Propylaea (Acropolis, Athens, Greece)'
+title: Problems in Periclean Buildings
+url: http://www.gutenberg.org/ebooks/37197
